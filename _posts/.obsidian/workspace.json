@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-01 Going back in time.md",
+                "file": "2023-03-01-Going-back-in-time.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-01 Going back in time.md",
+                "file": "2023-03-01-Going-back-in-time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-01 Going back in time.md",
+                "file": "2023-03-01-Going-back-in-time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-01 Going back in time.md"
+                "file": "2023-03-01-Going-back-in-time.md"
               }
             }
           }
@@ -148,7 +148,7 @@
   "active": "7c5614d890919172",
   "lastOpenFiles": [
     "2024-04-15-first-post.md",
-    "2023-03-01 Going back in time.md",
+    "2023-03-01-Going-back-in-time.md",
     "Template/2020-02-26-flake-it-till-you-make-it.md",
     "Template/2020-02-28-sample-markdown.md",
     "Template/Daily Notes Template.md",
