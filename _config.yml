@@ -24,6 +24,8 @@ navbar-links:
   Projects : "projects"
   Resume : "resume"
 
+paginate_path: "/blog/page:num/"
+
 ################
 # --- Logo --- #
 ################
