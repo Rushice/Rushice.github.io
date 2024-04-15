@@ -19,12 +19,8 @@ author: Isaac Choo Jia Lurc
 # --- List of links in the navigation bar --- #
 ###############################################
 
-paginate_path: "/blog/page:num/"
-
 navbar-links:
-  Home: ""
-  Blog: "blog"
-  Projects : "projects"
+#  About me: "aboutme"
   Resume : "resume"  
 
 
