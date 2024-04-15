@@ -22,6 +22,7 @@ author: Isaac Choo Jia Lurc
 paginate_path: "/blog/page:num/"
 
 navbar-links:
+  Home: ""
   Blog: "blog"
   Projects : "projects"
   Resume : "resume"  
