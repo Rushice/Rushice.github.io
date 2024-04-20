@@ -2,8 +2,15 @@
 layout: post
 title: Discorder
 subtitle: PSVR rythm game made in Unity
+cover-img: /assets/img/Discorder/CoverImg.png
 tags: [Unity, VR, PSVR, Rythm]
 ---
 Jun 2018 - Aug 2018
 
 3 Months Final year project in NYP, Developing in Unity and PS4 Devkit for PSVR development
+
+Screenshots:
+
+![Menu](https://rushice.github.io/assets/img/WhereFlowersBloom/Gameplay.png)
+![Gameplay1](https://rushice.github.io/assets/img/Discorder/Disc1.png)
+![Gameplay2](https://rushice.github.io/assets/img/Discorder/Disc1.png)

@@ -2,6 +2,7 @@
 layout: post
 title: Patient Zero
 subtitle: 3D strategy game made in Unreal Engine
+cover-img: /assets/img/PatientZero/CoverImg.png
 tags: [Unreal Engine, 3D, Isometric, RTS, Strategy]
 ---
 Mar 2018 - May 2018
