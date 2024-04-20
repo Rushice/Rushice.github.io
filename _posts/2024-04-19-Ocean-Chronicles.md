@@ -21,3 +21,5 @@ Screenshots:
 ![level1-2](https://rushice.github.io/assets/img/OceanChronicles/Gameplay1-2.png)
 ![level2-1](https://rushice.github.io/assets/img/OceanChronicles/Gameplay2-1.png)
 ![level2-2](https://rushice.github.io/assets/img/OceanChronicles/Gameplay2-2.png)
+![Editor1](https://rushice.github.io/assets/img/OceanChronicles/Editor1.png)
+![Editor2](https://rushice.github.io/assets/img/OceanChronicles/Editor2.png)
