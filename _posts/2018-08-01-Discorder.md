@@ -11,6 +11,5 @@ Jun 2018 - Aug 2018
 
 Screenshots:
 
-![Menu](https://rushice.github.io/assets/img/Discorder/DiscMenu.png)
 ![Gameplay1](https://rushice.github.io/assets/img/Discorder/Disc1.png)
 ![Gameplay2](https://rushice.github.io/assets/img/Discorder/Disc1.png)
