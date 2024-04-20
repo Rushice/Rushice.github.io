@@ -2,13 +2,17 @@
 layout: post
 title: Ocean Chronicles
 subtitle: 3D Underwater FPS made in Custom Engine
-cover-img: "assets/img/OceanChronicles/CoverImg.png"
-thumbnail-img: "assets/img/OceanChronicles/ThumbnailImg.png"
+cover-img: /assets/img/OceanChronicles/CoverImg.png
+thumbnail-img: /assets/img/OceanChronicles/ThumbnailImg.png
 tags: [3D, FPS, Custom Engine]
 ---
 Sep 2023 - Apr 2024
 
 Implemented Physics and Physics Components in Engine and Gameplay Scripting
+
+Trailer:
+
+![Trailer](https://rushice.github.io/assets/vid/OceanChroniclesTrailer.mp4)
 
 Screenshots:
 
