@@ -10,10 +10,6 @@ Sep 2023 - Apr 2024
 
 Implemented Physics and Physics Components in Engine and Gameplay Scripting
 
-Trailer:
-
-![Trailer](https://rushice.github.io/assets/vid/OceanChroniclesTrailer.mp4)
-
 Screenshots:
 
 ![MainMenu](https://rushice.github.io/assets/img/OceanChronicles/MainMenu.png)
