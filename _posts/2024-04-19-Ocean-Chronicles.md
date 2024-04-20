@@ -12,7 +12,9 @@ Implemented Physics and Physics Components in Engine and Gameplay Scripting
 
 Trailer:
 
-![Trailer](https://rushice.github.io/assets/vid/OceanChroniclesTrailer.mp4)
+https://github.com/Rushice/Rushice.github.io/assets/21054535/b9034cea-3853-4ac0-b11d-ddb8038794b7
+
+
 
 Screenshots:
 
