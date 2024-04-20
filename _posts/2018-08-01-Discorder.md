@@ -2,7 +2,7 @@
 layout: post
 title: Discorder
 subtitle: PSVR rythm game made in Unity
-cover-img: /assets/img/Discorder/CoverImg.png
+cover-img: /assets/img/Discorder/CoverImg.jpg
 tags: [Unity, VR, PSVR, Rythm]
 ---
 Jun 2018 - Aug 2018
