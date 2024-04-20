@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Flowers Bloom
-subtitle: 2D Narrative Driven Management Game in Custom Engine
+subtitle: 2D Narrative Driven Management Game
 cover-img: /assets/img/WhereFlowersBloom/CoverImg.png
 thumbnail-img: /assets/img/WhereFlowersBloom/ThumbnailImg.png
 tags: [Custom Engine, 2D, Narrative Drive, Management, Garderning, Shopkeeping]

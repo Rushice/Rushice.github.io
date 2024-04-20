@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ocean Chronicles
-subtitle: 3D Underwater FPS made in Custom Engine
+subtitle: 3D Underwater FPS
 cover-img: /assets/img/OceanChronicles/CoverImg.png
 thumbnail-img: /assets/img/OceanChronicles/ThumbnailImg.png
 tags: [3D, FPS, Custom Engine]
