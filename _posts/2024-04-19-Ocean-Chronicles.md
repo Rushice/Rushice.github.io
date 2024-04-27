@@ -5,10 +5,15 @@ subtitle: 3D Underwater FPS
 cover-img: /assets/img/OceanChronicles/CoverImg.png
 thumbnail-img: /assets/img/OceanChronicles/ThumbnailImg.png
 tags: [3D, FPS, Custom Engine]
+videoId: ZTK-j2_Sn0o
 ---
 Sep 2023 - Apr 2024
 
 Implemented Physics and Physics Components in Engine and Gameplay Scripting
+
+Trailer:
+
+{% include youtubePlayer.html id=page.videoId %}
 
 Screenshots:
 

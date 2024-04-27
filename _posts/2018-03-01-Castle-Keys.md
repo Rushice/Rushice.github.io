@@ -10,6 +10,8 @@ Feb 2018
 
 Unity Game done in 3 Weeks for Studio Project in NYP
 
+Play it here on [itch.io](https://monochromesky.itch.io/castle-keys)
+
 Screenshots:
 
 ![title](https://rushice.github.io/assets/img/CastleKeys/title.png)
